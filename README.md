@@ -6,3 +6,6 @@ Uygulama kodlarımı branches->master bölümünde görebilirsiniz.
 
 You can install and run the APK file on your android device.
 You can see my application codes in the master section under branches.
+
+## Screenshots
+![home_page](https://github.com/BrkERSY/YL-PROJE/blob/main/Screenshots/home_page.png?raw=true)
