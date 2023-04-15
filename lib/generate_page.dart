@@ -92,7 +92,7 @@ class _GenerateQRCodeScreenState extends State<GenerateQRCodeScreen> {
                   },
                   icon: const Icon(Icons.qr_code_2_outlined),
                   label: const Text(
-                    "Oluştur",
+                    "Create",
                     style: TextStyle(fontFamily: "Silkscreen"),
                   ),
                   style: ElevatedButton.styleFrom(
